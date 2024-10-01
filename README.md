@@ -43,4 +43,4 @@ If you would like to contribute to this project, please follow these guidelines:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact us at sentiment-analysis@example.com.
+If you have any questions or suggestions, feel free to contact.
